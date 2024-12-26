@@ -1,0 +1,1 @@
+# Percentage-finder-by-JavaScript

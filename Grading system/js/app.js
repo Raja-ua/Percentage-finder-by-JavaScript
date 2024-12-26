@@ -25,5 +25,5 @@ else if (Percentage >= 50 && Percentage <= 59 ){
     document.write("Your Percentage is " + Percentage + " and your grade is C"  )
 }
 else if (Percentage >= 0 && Percentage <= 49 ){
-    document.write("Your Percentage is " + Percentage + " and your grade is Fail"  )
+    document.write("Your Percentage is " + Percentage + " and you are Fail"  )
 }
